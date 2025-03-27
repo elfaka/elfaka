@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <img src="http://mazandi.herokuapp.com/api?handle=chopr159&theme=dark"/>
-<img src="[http://mazandi.herokuapp.com/api?handle=chopr159&theme=dark](http://mazassumnida.wtf/api/v2/generate_badge?boj=chopr159)"/>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chopr159"/>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chopr159)](https://solved.ac/chopr159)
 **elfaka/elfaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
