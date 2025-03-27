@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=dark"/>
+<img src="http://mazandi.herokuapp.com/api?handle={chopr159}&theme=dark"/>
 **elfaka/elfaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
