@@ -8,12 +8,11 @@
 
 ## 👩‍💻 About Me
 
-<h5>- 🏢 Working at **ConsumerInsight** (2023.05 ~)</h5>
-<h5>- 🎓 Graduated from **Kwangwon University** (2017.03 ~ 2023.08)</h5>
-<h5>- 🌱 Currently diving deeper into **Full Stack Development**</h5>
-<h5>- 📚 Solving problems on **Baekjoon**  </h5>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chopr159" />
-  <img src="http://mazandi.herokuapp.com/api?handle=chopr159&theme=dark" />
+<h4>- 🏢 Working at **ConsumerInsight** (2023.05 ~)</h4>
+<h4>- 🎓 Graduated from **Kwangwon University** (2017.03 ~ 2023.08)</h4>
+<h4>- 🌱 Currently diving deeper into **Full Stack Development**</h4>
+<h4>- 📚 Solving problems on **Baekjoon**  </h4>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chopr159" /><img src="http://mazandi.herokuapp.com/api?handle=chopr159&theme=dark" />
   
 ## 🛠️ Tech Stack
 
